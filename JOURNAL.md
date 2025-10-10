@@ -10,7 +10,7 @@ This is my journal of the design and building process of **ESP32 Devboard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/364).
 
 
-## 10/10/2025 - Day 1 - Basic Schematic Entries  
+## 10/10/2025 12 PM - Day 1 - Basic Schematic Entries  
 
 My first journal entry for this project!
 
@@ -19,4 +19,17 @@ I used a tutorial to learn how to use datasheets to wire components together. Ad
 Wiring the components did not take too much time, but a large amount of time went into notetaking and learning.
 
 ![Day1Schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0dbe663dc678be0267c7c90d96c6de65b7069040/Day1Schematic.png)  
+
+## 10/10/2025 1 PM - Day 2 - Finished the Schematic  
+
+I forgot to post my Day 1 journal entry on Day 1, so I posted it a day late!
+
+For Day 2, I finished the schematic and fixed some of the components such as the USB connector (it was missing some parts). I also decided to clean up the schematic a bit by adding text and moving the components accordingly.
+
+When I tried converting the schematic to PCB, I did discover that there were some unconnected pins! I learned how to ignore these pins, which help makes the schematic look even cleaner!
+
+I also forgot to mention that I will be using EasyEDA for the entirity of this project, because of its online functionality.
+
+![Day2Schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2556dc64332ce3733fa8328079caacf637e3c828/Day2Schematic.png)
+  
 
