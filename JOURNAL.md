@@ -33,3 +33,22 @@ I also forgot to mention that I will be using EasyEDA for the entirity of this p
 ![Day2Schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2556dc64332ce3733fa8328079caacf637e3c828/Day2Schematic.png)
   
 
+## 10/12/2025 - Day 3 - Routing the PCB  
+
+I did it again! I forgot to post the Day 3 journal.
+
+But to update, I finished the schematic on Day 2, so I began to route the PCB. Thankfully, using the naming conventions on the wires from each component made it a lot easier to pinpoint where to add each connection. 
+
+It was a bit difficult, however, to wire the components together in such a small PCB. I had to redo the wiring multiple times to allow both the bottom and top components of the ESP32 to be connected and still allow space for more wires.
+
+### **PCB Wiring**
+
+![Screenshot 2025-10-12 at 3.47.00 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--82c80fe855969f55ac4062a796550d23885da1c9/Screenshot%202025-10-12%20at%203.47.00%E2%80%AFPM.png)
+
+### **Top View**
+![Screenshot 2025-10-12 at 3.48.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--84592171b95233482d07b4ec1a864d721b5f8c47/Screenshot%202025-10-12%20at%203.48.25%E2%80%AFPM.png)
+
+### **Bottom View**
+![Screenshot 2025-10-12 at 3.49.30 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f964b8ad0e9cbd7e84d235184ac86c24d05d92b/Screenshot%202025-10-12%20at%203.49.30%E2%80%AFPM.png)
+  
+
