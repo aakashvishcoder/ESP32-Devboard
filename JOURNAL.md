@@ -63,6 +63,8 @@ For now, the PCB is complete! I could add polygons to improve the design of the 
 
 **Bottom Views**
 ![Screenshot 2025-10-12 at 3.49.30 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--595b1068ba1e8613f81157ea147f0a739901708f/Screenshot%202025-10-12%20at%203.49.30%E2%80%AFPM.png)
-![Screenshot 2025-10-12 at 3.47.00 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NywicHVyIjoiYmxvYl9pZCJ9fQ==--25897d734521e594730be6efc201da6581e8d0c3/Screenshot%202025-10-12%20at%203.47.00%E2%80%AFPM.png)
+
+![Screenshot 2025-10-20 at 12.41.16 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--4db509e348934627ac9a956ad2666ab15956b418/Screenshot%202025-10-20%20at%2012.41.16%E2%80%AFPM.png)
+
   
 
