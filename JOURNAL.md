@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **ESP32 Devboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/364).
-
-
 ## 10/10/2025 12 PM - Day 1 - Basic Schematic Entries  
 
 My first journal entry for this project!
@@ -50,5 +46,23 @@ It was a bit difficult, however, to wire the components together in such a small
 
 ### **Bottom View**
 ![Screenshot 2025-10-12 at 3.49.30 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f964b8ad0e9cbd7e84d235184ac86c24d05d92b/Screenshot%202025-10-12%20at%203.49.30%E2%80%AFPM.png)
+  
+
+## 10/20/2025 - Finish Routing the PCB + Fixed Routing Issues  
+
+I havent been posting for the past week because of school work and other ywsw (sorry), but I still had enough time to get this done thankfully :).
+
+For this week, I finished routing the PCB (it took a very long time). Placing vias and routing the wires were kind of a hassle because I made the board as compact as possible. But I managed to do it, or so I thought.... 
+
+Later, when I checked the design rule, I dicovered that I had over 40 issues with my board and that I would need to reroute some tracks and move some vias. After another 2-3 hours, I managed to move the vias and tracks around while making sure it looked, at least somewhat, presentable.
+
+For now, the PCB is complete! I could add polygons to improve the design of the PCB, but it should be functional!
+
+**Complete PCB**
+![Screenshot 2025-10-12 at 3.48.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c4e7007f67a1ed6125a7184a84e89153aeef33b9/Screenshot%202025-10-12%20at%203.48.25%E2%80%AFPM.png)
+
+**Bottom Views**
+![Screenshot 2025-10-12 at 3.49.30 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--595b1068ba1e8613f81157ea147f0a739901708f/Screenshot%202025-10-12%20at%203.49.30%E2%80%AFPM.png)
+![Screenshot 2025-10-12 at 3.47.00 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NywicHVyIjoiYmxvYl9pZCJ9fQ==--25897d734521e594730be6efc201da6581e8d0c3/Screenshot%202025-10-12%20at%203.47.00%E2%80%AFPM.png)
   
 
